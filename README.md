@@ -4,6 +4,14 @@ This repo contains an `EXIF.sublime-syntax` for highlighting `exiftool` output.
 
 ## Install in Sublime Text
 
+**Recommended (Package Control)**
+
+1. Open **Preferences → Package Control**.
+2. Select **Install Package**.
+3. Search for `EXIF Syntax` and install it.
+
+**Alternative (manual install)**
+
 1. Find your Sublime **User** package directory:
 
    - **Linux:** `~/.config/sublime-text/Packages/User/`
